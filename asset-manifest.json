@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blobio2/static/css/main.032f194d.chunk.css",
+    "main.js": "/blobio2/static/js/main.4c61c07d.chunk.js",
+    "main.js.map": "/blobio2/static/js/main.4c61c07d.chunk.js.map",
+    "runtime~main.js": "/blobio2/static/js/runtime~main.063d0139.js",
+    "runtime~main.js.map": "/blobio2/static/js/runtime~main.063d0139.js.map",
+    "static/js/2.e0e57e32.chunk.js": "/blobio2/static/js/2.e0e57e32.chunk.js",
+    "static/js/2.e0e57e32.chunk.js.map": "/blobio2/static/js/2.e0e57e32.chunk.js.map",
+    "index.html": "/blobio2/index.html",
+    "precache-manifest.f3a2c1d0a5ed2321df251aea82000887.js": "/blobio2/precache-manifest.f3a2c1d0a5ed2321df251aea82000887.js",
+    "service-worker.js": "/blobio2/service-worker.js",
+    "static/css/main.032f194d.chunk.css.map": "/blobio2/static/css/main.032f194d.chunk.css.map"
+  }
+}
