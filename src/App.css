@@ -1,0 +1,49 @@
+.app {
+	display: flex;
+	justify-content: center;
+}
+
+h3 {
+	text-align: center;
+	color: gold;
+	font-size: 25px;
+	font-family: "Megrim", cursive;
+	text-shadow: 1px 1px 2px orangered;
+}
+
+ul {
+	padding: 0;
+	width: 22vw;
+	min-height: 636px;
+	margin: 30px;
+	padding: 30px 50px;
+	border-radius: 8px;
+	background-color: crimson;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ul:nth-child(2) {
+	background-color: #8b008b;
+	padding-top: 37px;
+}
+
+li {
+	user-select: none;
+	list-style-type: none;
+	padding: 5px 13px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 15px auto;
+	border: 5px double orangered;
+	font-size: 23px;
+	letter-spacing: 1px;
+	font-family: "Permanent Marker", cursive;
+	color: #4682b4;
+}
+
+span:first-of-type {
+	font-family: "Vast Shadow", cursive;
+	color: #a22a2a;
+	font-size: 30px;
+	text-shadow: -2px 2px 3px gold;
+}

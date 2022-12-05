@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Megrim&family=Vast+Shadow&display=swap");
+
+body {
+  margin: 0;
+  background-color: navajowhite;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
